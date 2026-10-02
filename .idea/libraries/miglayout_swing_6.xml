@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="miglayout-swing-6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.mockito.mockito-all-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/Java/miglayout-swing-5.3-javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/org.mockito.mockito-all-1.9.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
